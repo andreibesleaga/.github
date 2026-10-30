@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/andreibesleaga/.github/blob/main/SECURITY.md
     about: Read the security policy first. Never post exploit code, secrets or personal data in an issue.
   - name: Anything else, including a commercial licence
-    url: https://andreibesleaga.com/contact/
-    about: The contact page of the maintainer's website.
+    url: https://andreibesleaga.com
+    about: The author's website (GitHub profile https://github.com/andreibesleaga).

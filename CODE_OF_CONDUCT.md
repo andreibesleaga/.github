@@ -16,7 +16,8 @@ Report unacceptable behaviour privately, through either channel:
 
 - a private report in the affected repository (its **Security** tab, then **Report a
   vulnerability**), where that repository has private reporting turned on;
-- the contact page of the maintainer's website, <https://andreibesleaga.com/contact/>.
+- the author's GitHub profile, <https://github.com/andreibesleaga>, or website,
+  <https://andreibesleaga.com>.
 
 Do not report it in a public issue. Every report is reviewed, and the reporter's privacy is
 respected.
