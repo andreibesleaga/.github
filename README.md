@@ -18,4 +18,4 @@ GitHub does not apply a `LICENSE` from this repository to other repositories. Ea
 keeps its own `LICENSE` file; the notice here covers this repository and states the terms for any
 material of the author that has no licence of its own.
 
-Contact: issues in the repository concerned, or <https://andreibesleaga.com/contact/>.
+Contact: issues in the repository concerned, the author's GitHub profile <https://github.com/andreibesleaga>, or the author's website <https://andreibesleaga.com>.

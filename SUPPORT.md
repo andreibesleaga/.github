@@ -8,8 +8,8 @@ that does not have its own `SUPPORT.md`.
 - **A security problem:** follow [SECURITY.md](https://github.com/andreibesleaga/.github/blob/main/SECURITY.md) or the repository's own security
   policy. Do not post exploit code, secrets or personal data in an issue.
 - **A conduct problem:** follow [CODE_OF_CONDUCT.md](https://github.com/andreibesleaga/.github/blob/main/CODE_OF_CONDUCT.md).
-- **Anything else, including a commercial licence:** use the contact page of the maintainer's
-  website, <https://andreibesleaga.com/contact/>.
+- **Anything else, including a commercial licence:** use the author's GitHub profile,
+  <https://github.com/andreibesleaga>, or website, <https://andreibesleaga.com>.
 
 Read the repository's README first; most questions are answered there or in its `docs/` folder.
 
