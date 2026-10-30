@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security problem
+    url: https://github.com/andreibesleaga/.github/blob/main/SECURITY.md
+    about: Read the security policy first. Never post exploit code, secrets or personal data in an issue.
+  - name: Anything else, including a commercial licence
+    url: https://andreibesleaga.com/contact/
+    about: The contact page of the maintainer's website.
