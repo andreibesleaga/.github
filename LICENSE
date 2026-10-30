@@ -9,25 +9,36 @@ Copyright (c) 2026 Andrei Nicolae Besleaga (Andrei N. Besleaga)
 
 2. Material without a licence of its own.
    This repository, and any repository or file of the author that carries no
-   licence of its own, is licensed under the Creative Commons
-   Attribution-NonCommercial 4.0 International licence (CC BY-NC 4.0):
-   https://creativecommons.org/licenses/by-nc/4.0/legalcode
+   licence of its own, is licensed as follows:
 
-   In short, and subject to that licence's full text:
-   - You may use, copy, share and adapt the material free of charge.
-   - You must give credit: name "Andrei N. Besleaga", link to
-     https://github.com/andreibesleaga or to the repository you used, and say
-     whether you changed the material.
-   - You may not use the material for commercial purposes, for example by
-     selling it or a product or service built on it, unless the author has
-     granted you a separate licence. Ask for one through the contact page at
-     https://andreibesleaga.com/contact/ or an issue in the repository.
+   a. Software source code: the GNU General Public License, version 3 or
+      (at your option) any later version (GPL-3.0-or-later).
+      Full text: LICENSES/GPL-3.0-or-later.txt
+      https://www.gnu.org/licenses/gpl-3.0.html
 
-3. Linking.
+   b. Everything else (documentation, text, images, diagrams, data and other
+      content): Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+      International (CC BY-NC-ND 4.0).
+      Full text: LICENSES/CC-BY-NC-ND-4.0.txt
+      https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+   Under CC BY-NC-ND 4.0, in short and subject to its full text: you may copy
+   and share the material free of charge, unchanged, if you give credit
+   ("Andrei N. Besleaga", with a link to https://github.com/andreibesleaga or
+   to the repository); you may not use it for commercial purposes and may not
+   share adapted versions.
+
+3. Other licences on request.
+   Commercial use of material under CC BY-NC-ND 4.0, adaptations of it, or a
+   licence other than the GPL for code, need a separate written licence from
+   the author. Ask through https://andreibesleaga.com/contact/ or an issue in
+   the repository concerned.
+
+4. Linking.
    Anyone may link to any of the author's repositories, websites and published
    works without asking.
 
-4. No warranty.
+5. No warranty.
    Everything is provided "as is", without warranty of any kind, express or
-   implied. The author is not liable for any claim, damage or other liability
-   arising from its use.
+   implied, to the extent permitted by the licences above. The author is not
+   liable for any claim, damage or other liability arising from its use.
